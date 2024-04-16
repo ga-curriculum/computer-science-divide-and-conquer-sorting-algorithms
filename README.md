@@ -1,43 +1,36 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![Divide & Conquer Sorting Algorithms](./assets/tktk-hero.png)
 
-## About
+## Overview
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+This lesson covers two sorting algorithms that use the "divide-and-conquer" method: merge sort and quick sort.
+
+There are two components to this lesson:
+
+  1. [Introduction to Divide-and-Conquer Sorting Algorithms](./setup/README.md)
+  2. [Exercise: Implementing Merge Sort and Quick Sort](./exercise/README.md)
+
+## Learning Objectives
+
+By the end of this lesson, you will be able to:
+
+  - Describe how to use merge sort and quick sort to sort data.
+  - Explain the space and time complexities of merge sort and quick sort.
+  - Identify when to use merge sort or quick sort in a given scenario.
 
 ## Prerequisites
 
-- tktk
+  - Big O Notation
+  - Recursion
+  - Intro to Sorting
 
-## Time to complete
 
-Estimated time to complete core lab exercise: **tktk min**
+## Duration
 
-## Starter code
+2.5 hours total:
 
-tktk If there is not a starter code repo that students will fork and clone to start this lab, then this section and all of its content should be removed.
+  - 30 minute lecture
+  - 2 hours exercise
 
-🟢 [Starter code](#tktk-repository-for-starter-code)
-
-## Content
-
-- [Setup](./setup/README.md)
-- [Exercise](./exercise/README.md)
-
-## Level Up
-
-🚀 [Level Up](./level-up/README.md) tktk - remove section if no level ups exist.
-
-## Solution code
-
-🏁 [tktk Solution code](#tktk-external-repo-link-url)
-
-## Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](#tktk-deployed-app-url)
-
-🐙 [Repository](#tktk-repository-for-deployed-app)
 
 ## Internal resources
 
