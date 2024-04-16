@@ -6,7 +6,7 @@ This lesson covers two sorting algorithms that use the "divide-and-conquer" meth
 
 There are two components to this lesson:
 
-  1. [Introduction to Divide-and-Conquer Sorting Algorithms](./setup/README.md)
+  1. [Introduction to Divide-and-Conquer Sorting Algorithms](./intro-to-divide-and-conquer/README.md)
   2. [Exercise: Implementing Merge Sort and Quick Sort](./exercise/README.md)
 
 ## Learning Objectives
