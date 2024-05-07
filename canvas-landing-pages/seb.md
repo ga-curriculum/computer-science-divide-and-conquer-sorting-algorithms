@@ -1,1 +1,1 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![Computer Science - Divide & Conquer Sorting Algorithms](./assets/hero.png)

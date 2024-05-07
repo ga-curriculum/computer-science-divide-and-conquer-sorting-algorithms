@@ -1,4 +1,4 @@
-# ![Intro to Divide and Conquer Sorts - Exercise](./assets/hero.png)
+# ![Computer Science - Divide & Conquer Sorting Algorithms - Exercise](./assets/hero.png)
 
 ## Time to Practice
 Now, it’s over to you! Want to practice writing merge and quick sorts? Try them out in [this CodePen](https://codepen.io/GAmarketing/pen/MxWpQW).

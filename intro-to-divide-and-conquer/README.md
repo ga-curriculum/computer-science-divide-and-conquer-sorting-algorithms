@@ -1,4 +1,4 @@
-# ![Divide and Conquer Sorting Algorithms](./assets/hero.png)
+# ![Computer Science - Divide & Conquer Sorting Algorithms](./assets/hero.png)
 
 # Divide and Conquer Sorting Algorithms
 
