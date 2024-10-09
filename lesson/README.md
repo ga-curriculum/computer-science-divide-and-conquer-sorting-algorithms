@@ -168,7 +168,7 @@ _end of transcript_
 We know that the concept of quick sort and partitioning is complicated. Luckily, the internet understands that, too. Here are a couple of fun resources you can explore if you want to dive in further:
 
 - [This tool](https://me.dt.in.th/page/Quicksort/) allows you to move through the algorithm on a sample data set step-by-step. Play around with this until you feel like you’ve absorbed what’s happening.
-- [This video](https://www.youtube.com/watch?v=ywWBy6J5gz8&list=PLuE79vNc5Wi6q34LsQcaJ7ISQ8uOyMaL_&index=5) helps you visualize quick sort with folk dancing. Do-si-do your way into quick sort confidence!
+- [This video](https://youtu.be/3San3uKKHgg?si=P8d9b-DybL9TXYS4) helps you visualize quick sort with folk dancing. Do-si-do your way into quick sort confidence!
 
 ### Knowledge Check
 
