@@ -23,7 +23,7 @@ By the end of this module, learners will be able to:
 There are two components to this module:
 
 1. Lesson: [Divide-and-Conquer Sorting Algorithms](./lesson/README.md)
-2. Exercise: [Implementing Merge Sort & Quick Sort](https://git.generalassemb.ly/modular-curriculum-all-courses/divide-and-conquer-sorting-algorithms-starter-code)
+2. Exercise: [Implementing Merge Sort & Quick Sort](https://github.com/ga-curriculum/divide-and-conquer-sorting-algorithms-starter-code)
 
 ## Solution Code 
 
